@@ -1,0 +1,8 @@
+*.pyc
+dataset/*
+!dataset/.gitkeep
+model/*
+!model/.gitkeep
+webdnn/image-caption-model
+caption_gen_resnet.model
+dataset_coco.pkl
